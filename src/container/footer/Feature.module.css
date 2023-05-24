@@ -1,0 +1,12 @@
+.footer{
+    padding: 10% 0;
+}
+
+.footer__container {
+    justify-content: space-between;
+    gap: 10rem;
+}
+
+.footer__container section{
+    flex: 1 20rem;
+}

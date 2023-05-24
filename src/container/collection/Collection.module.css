@@ -1,0 +1,4 @@
+.collection__container{
+    gap: 5rem;
+    flex-wrap: wrap;
+}

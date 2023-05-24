@@ -1,0 +1,35 @@
+.header {
+  height: 70vh;
+  width: 100vw;
+  background: center center/cover no-repeat;
+  background-image: linear-gradient(#0000007f, #00000082),
+    url(../../assets/image/hero.jpg);
+
+  .header__container {
+    gap: 0;
+    height: 100%;
+    flex-direction: column;
+
+    @media (min-width: 64em) {
+      & {
+        flex-direction: row;
+      }
+    }
+  }
+
+  .header__figure {
+    flex: 1 20rem;
+    border-right: 1px solid var(--primary-color);
+
+    transition: all 0.4s linear;
+  }
+
+  .header__container:hover:not(:hover){
+    filter: grayscale(90%);
+  }
+
+  .header__figure:hover {
+    flex: 1 40rem;
+  }
+
+}

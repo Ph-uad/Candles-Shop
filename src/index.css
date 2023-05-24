@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: clamp(30%, 62.5%, 70%);
+
+  --bg-color: #F2EFEA;
+  --primary-color: #F2EFEA;
+  --secondary-color: #FFF9C9;
+  /* #FAD2B8 */
+
+}
+
+body {
+  font-size: 1.6rem;
+  width: 100vw;
+  font-family: 'Padauk', sans-serif;
+  background: var(--bg-color);
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Fanwood Text', serif;
+  line-height: 1.7;
+}
+
+.heading__secondary {
+  font-size: clamp(3rem, 3vw, 4rem);
+  text-align: center;
+}
+
+
+.text-center {
+  text-align: center;
+}
