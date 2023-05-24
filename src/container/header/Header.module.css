@@ -1,15 +1,14 @@
 .header {
   height: 70vh;
   width: 100vw;
-  max-width: 1880px;
   background: center center/cover no-repeat;
   background-image: linear-gradient(rgba(0, 0, 0, 0.4980392157), rgba(0, 0, 0, 0.5098039216)), url(../../assets/image/hero.jpg);
 }
 .header .header__container {
-  flex-wrap: nowrap;
   gap: 0;
   height: 100%;
   flex-direction: column;
+  overflow: hidden;
 }
 @media (min-width: 64em) {
   .header .header__container {

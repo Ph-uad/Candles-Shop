@@ -1,4 +1,10 @@
-.collection__container{
+.collection__container {
     gap: 5rem;
     flex-wrap: wrap;
+}
+
+@media (min-width:64em) {
+    .collection__container {
+        flex-wrap: nowrap;
+    }
 }
