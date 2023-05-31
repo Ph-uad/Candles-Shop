@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar } from './components'
-import { Header, Collection, Footer } from './container'
+import { Header, Collection, Footer, About } from './container'
 import './App.css'
 
 const App = () => {
@@ -10,8 +10,9 @@ const App = () => {
             <Header />
             <div className="container">
                 <Collection />
+                <About />
             </div>
-            <Footer/>
+            <Footer />
         </div>
     )
 }

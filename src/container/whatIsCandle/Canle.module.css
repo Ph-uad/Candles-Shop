@@ -1,0 +1,16 @@
+.candle{
+    margin-left: 10%;
+    gap: 10%;
+}
+
+.candle__photo{
+    flex: 1 30%;
+    aspect-ratio: 1;
+    outline-offset: 1rem;
+    outline: 1px solid #333;
+}
+
+.candle__content{
+    flex: 1 50%;
+    align-self: center;
+}

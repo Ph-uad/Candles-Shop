@@ -16,13 +16,12 @@
   }
 }
 .header .header__figure {
-  flex: 1 20rem;
-  border-right: 1px solid var(--primary-color);
+  flex: 1 25vw;
   transition: all 0.4s linear;
 }
 .header .header__container:hover:not(:hover) {
   filter: grayscale(90%);
 }
 .header .header__figure:hover {
-  flex: 1 40rem;
+  transform: scale(1.4);
 }/*# sourceMappingURL=header.module.css.map */

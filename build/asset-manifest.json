@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bddd17cb.css",
+    "main.js": "/static/js/main.170fec85.js",
+    "static/media/hero.jpg": "/static/media/hero.14408ca0a04057ac747b.jpg",
+    "static/media/heroCandle1.webp": "/static/media/heroCandle1.80ae9a4f210853b06036.webp",
+    "static/media/product3.jpg": "/static/media/product3.ae7667d3b0c6398c1193.jpg",
+    "static/media/product2.jpg": "/static/media/product2.db6b45ce13b8efb651c1.jpg",
+    "static/media/product4.jpg": "/static/media/product4.4ff5afb0a7408cb8baaa.jpg",
+    "static/media/product1.jpg": "/static/media/product1.bea3acf0d12bdcae3ce9.jpg",
+    "static/media/heroCandle2.webp": "/static/media/heroCandle2.19422895e660d7ba5a33.webp",
+    "static/media/heroCandle3.webp": "/static/media/heroCandle3.5b36b745c6129caafc39.webp",
+    "static/media/heroCandle4.webp": "/static/media/heroCandle4.be3cd87396bf754e13af.webp",
+    "index.html": "/index.html",
+    "main.bddd17cb.css.map": "/static/css/main.bddd17cb.css.map",
+    "main.170fec85.js.map": "/static/js/main.170fec85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bddd17cb.css",
+    "static/js/main.170fec85.js"
+  ]
+}
