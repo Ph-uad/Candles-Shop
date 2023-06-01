@@ -20,7 +20,7 @@ const Footer = () => {
           <h3 className="heading__tertiary">
             About Us
           </h3>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore odit numquam dicta, aut rem similique! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa, accusantium.</p>
+          <p contentEditable>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore odit numquam dicta, aut rem similique! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa, accusantium.</p>
         </section>
         <section className="">
           <h3 className="heading__tertiary">
